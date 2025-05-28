@@ -1,4 +1,4 @@
-# Anki Manua
+# Anki Kullanma Klavuzu
 
 This repository contains the source of [Anki's user manual](https://docs.ankiweb.net).
 
