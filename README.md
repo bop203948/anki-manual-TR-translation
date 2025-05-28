@@ -4,7 +4,7 @@ Bu klavuzun orijinal metni: [Anki's user manual](https://docs.ankiweb.net).
 
 ## Lisans 
 
-Bu klavuz [CC BY-SA 4 license] (https://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
+Bu klavuz [CC BY-SA 4 license](https://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
 
 ## Destekleyiciler
 
