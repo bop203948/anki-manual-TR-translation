@@ -1,7 +1,6 @@
 # Anki Kullanma Klavuzu
 
-Bu klavuzun ana kaynağı:
-[Anki's user manual](https://docs.ankiweb.net).
+Bu klavuzun ana kaynağı:[Anki's user manual](https://docs.ankiweb.net).
 
 ## Lisans 
 
