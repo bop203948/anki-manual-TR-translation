@@ -1,6 +1,7 @@
 # Anki Kullanma Klavuzu
 
-Bu klavuzun orijinal metni: [Anki's user manual](https://docs.ankiweb.net).
+Bu klavuzun orijinal metni:  
+[Anki's user manual](https://docs.ankiweb.net).
 
 ## Lisans 
 
@@ -8,7 +9,9 @@ Bu klavuz [CC BY-SA 4 license](https://creativecommons.org/licenses/by-sa/4.0/) 
 
 ## Katkıda Bulunanlar
 
-Katkılarınız memnuniyetle kabul edilir. Lütfen neler üzerinde çalışabileceğinizi öğrenmek için [sorun izleyicisine](https://github.com/ankitects/anki-manual/issues) bakın. For details on local development, see [CONTRIBUTING](CONTRIBUTING.md).
+Katkılarınız memnuniyetle kabul edilir.  
+Lütfen neler üzerinde çalışabileceğinizi öğrenmek için [sorun izleyicisi](https://github.com/ankitects/anki-manual/issues)ne göz gezdirin.  
+Yerel geliştiriciler için detaylar: [CONTRIBUTING](CONTRIBUTING.md).
 
 Unless stated otherwise, any pull requests you
 submit will be licensed under the [CC BY-SA 4 license](https://creativecommons.org/licenses/by-sa/).
