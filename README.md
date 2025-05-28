@@ -1,4 +1,4 @@
-# Anki Manual
+# Anki Manua
 
 This repository contains the source of [Anki's user manual](https://docs.ankiweb.net).
 
